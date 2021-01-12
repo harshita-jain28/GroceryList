@@ -4,5 +4,4 @@ This is a basic grocery list manager that lets you add items,search them and del
 * HTML
 * CSS
 * Javascript
-* Web Audio API
 
